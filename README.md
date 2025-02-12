@@ -1,7 +1,7 @@
 # optimizer-showdown
 
 ## Overview
-This project aims to compare the performance of various optimization algorithms in training a simple neural network on the MNIST dataset. The optimizers compared include:
+This project aims to compare the performance of various optimization algorithms in training a neural network on the MNIST dataset. The optimizers compared include:
 
 - **SGD (Stochastic Gradient Descent)**
 - **AdaGrad**
